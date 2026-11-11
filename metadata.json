@@ -1,0 +1,6 @@
+{
+  "name": "Proof2Pay - AI Milestone Verification & PayPal Escrow",
+  "description": "Milestone escrow and AI-powered evidence verification platform connecting clients and freelancers with instant PayPal payouts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
